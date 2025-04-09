@@ -1,7 +1,7 @@
 from demo import run_demo
 
 if __name__ == "__main__":
-    num_trials = 100    
+    num_trials = 100
     num_coins = 50     
     max_steps = 250    
     
