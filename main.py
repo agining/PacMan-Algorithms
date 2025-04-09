@@ -7,10 +7,10 @@ def main():
     pygame.font.init()
     
     # Ekran ve oyun ayarları
-    SCREEN_WIDTH = 800
-    SCREEN_HEIGHT = 600
+    SCREEN_WIDTH = 1200
+    SCREEN_HEIGHT = 900
     CELL_SIZE = 40
-    FPS = 30  # FPS değeri için orta seviye (daha yüksek FPS için 20-30 arası değerler denenebilir)
+    FPS = 30
     
     # Ekranı oluştur
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
