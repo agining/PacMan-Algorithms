@@ -10,7 +10,7 @@ def main():
     SCREEN_WIDTH = 1200
     SCREEN_HEIGHT = 900
     CELL_SIZE = 40
-    FPS = 30
+    FPS = 15
     
     # Ekranı oluştur
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
