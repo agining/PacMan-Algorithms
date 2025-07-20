@@ -146,7 +146,7 @@ YAP-441/
 4. **Yol Takibi**: Algoritmaların seçtiği rotalar
 5. **Karar Ağacı**: ML modelinin görsel temsili
 
-## ⚙️ Yapılandırma
+## Yapılandırma
 
 ### Oyun Parametreleri
 ```python
@@ -180,7 +180,7 @@ max_depth = 10           # Maksimum derinlik
 max_depth = 5            # Ağaç derinliği
 ```
 
-## 🎯 Kullanım Senaryoları
+## Kullanım Senaryoları
 
 ### 1. Eğitim Amaçlı
 - AI algoritmaları öğretmek için
@@ -198,7 +198,7 @@ max_depth = 5            # Ağaç derinliği
 
 
 
-## 📈 Sonuçlar ve Analiz
+## Sonuçlar ve Analiz
 
 Benchmark testleri şu klasörlerde saklanır:
 - **Grafikler**: `results/sim_results_*.png`
@@ -209,4 +209,3 @@ Benchmark testleri şu klasörlerde saklanır:
 
 ---
 
-⭐ **Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!**
